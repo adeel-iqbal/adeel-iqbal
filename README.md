@@ -10,11 +10,15 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 About Me
 
-I'm on the road from curious learner to **AI/ML Engineer**. I love turning complex data into smart solutions and building models that actually solve real problems. Currently diving deep into Neural Networks, Computer Vision, and NLP.
+I'm on the road from curious learner to **AI/ML Engineer**. I love turning complex data into smart solutions and building models that actually solve real problems. Currently diving deep into Neural Networks, Computer Vision and GenAI.
 
 When I'm not wrangling code, you'll find me pushing pawns on a chessboard ♟️, crushing workouts at the gym 💪, scoring goals in FIFA ⚽, or getting lost in a good book 📚.
+
+</div>
 
 ---
 
