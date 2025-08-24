@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## 🚀 About Me
+## 👑 About Me
 
 I'm on the road from curious learner to **AI/ML Engineer**. I love turning complex data into smart solutions and building models that actually solve real problems. Currently diving deep into Neural Networks, Computer Vision and GenAI.
 
@@ -32,7 +32,7 @@ When I'm not wrangling code, you'll find me pushing pawns on a chessboard ♟️
 
 ---
 
-## 💻 Tech Stack
+## 🤖 Tech Stack
 
 ### 🧠 AI & Machine Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00008B?style=flat&logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-F65B66?style=flat&logo=pytorch&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-2E7D32?style=flat&logo=huggingface&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
