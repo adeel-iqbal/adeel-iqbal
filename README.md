@@ -22,9 +22,11 @@ When I'm not wrangling code, you'll find me pushing pawns on a chessboard ♟️
 
 ## 🌐 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0077B3?style=flat&logo=vercel&logoColor=white)](https://portfolio-adeeliqbal.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View_My_Work-0077B3?style=flat&logo=vercel&logoColor=white)](https://portfolio-adeeliqbal.vercel.app/)
 
 </div>
+
+---
 
 ## 💻 Tech Stack
 
@@ -51,7 +53,7 @@ When I'm not wrangling code, you'll find me pushing pawns on a chessboard ♟️
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeeliqbalmemon)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeel@example.com)
+[![Email](https://img.shields.io/badge/Email-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:adeelmemon096@yahoo.com)
 
 </div>
 
