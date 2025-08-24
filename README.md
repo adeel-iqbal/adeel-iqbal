@@ -14,7 +14,7 @@
 
 I'm on the road from curious learner to **AI/ML Engineer**. I love turning complex data into smart solutions and building models that actually solve real problems. Currently diving deep into Neural Networks, Computer Vision, and NLP.
 
-When I'm not wrangling code, you'll find me pushing pawns on a chessboard ♟️, chasing a new PR in the gym 💪, or getting lost in a good book 📚.
+When I'm not wrangling code, you'll find me pushing pawns on a chessboard ♟️, crushing workouts at the gym 💪, scoring goals in FIFA ⚽, or getting lost in a good book 📚.
 
 ---
 
@@ -29,7 +29,7 @@ When I'm not wrangling code, you'll find me pushing pawns on a chessboard ♟️
 ## 💻 Tech Stack
 
 ### 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00008B?style=flat&logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-F65B66?style=flat&logo=pytorch&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-2E7D32?style=flat&logo=huggingface&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00008B?style=flat&logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-F65B66?style=flat&logo=pytorch&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-2E7D32?style=flat&logo=huggingface&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
 
 ### 📊 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-1A2F43?style=flat&logo=python&logoColor=white) [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#) ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
