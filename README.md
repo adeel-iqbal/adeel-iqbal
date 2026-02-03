@@ -16,8 +16,6 @@
 
 I'm an AI Engineer who builds intelligent systems that solve real problems. I work across the full spectrum, from Machine Learning models to Generative AI and Autonomous Agents, creating solutions that actually make an impact.
 
-Right now, I'm deep into GenAI and Agentic systems, figuring out how to make AI work smarter on its own. It's about taking complex challenges and turning them into something that works.
-
 When I'm not coding, you'll find me playing chess ♟️, lifting weights 💪, scoring goals in FIFA ⚽, or getting lost in a good book 📚.
 
 </div>
