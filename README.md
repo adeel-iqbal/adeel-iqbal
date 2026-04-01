@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Adeel Iqbal
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+AI+Developer;AI+Automation+Engineer+%7C+Data+Scientist;Turning+Data+into+Intelligence;Building+the+Future+with+AI)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+AI+Agent+Engineer;AI+Automation+Engineer+%7C+Data+Scientist;Turning+Data+into+Intelligence;Building+the+Future+with+AI)
 
 🎯 I speak fluent **AI/ML**, **Generative & Agentic AI**, and **Data Science**.
 
