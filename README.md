@@ -2,71 +2,45 @@
 
 # 👋 Hi, I'm Adeel Iqbal
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+AI+Agent+Engineer;AI+Automation+Engineer+%7C+Data+Scientist;Turning+Data+into+Intelligence;Building+the+Future+with+AI)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+AI+Agent+Engineer;I+talk+to+LLMs+more+than+people" alt="AI Engineer and AI Agent Engineer"/>
 
-🎯 I speak fluent **AI/ML**, **Generative & Agentic AI**, and **Data Science**.
-
-</div>
-
----
-
-<div align="center">
-
-## 👑 About Me
-
-I'm an AI Engineer who builds intelligent systems that solve real problems. I work across the full spectrum, from Machine Learning models to Generative AI and Autonomous Agents, creating solutions that actually make an impact.
-
-When I'm not coding, you'll find me playing chess ♟️, lifting weights 💪, scoring goals in FIFA ⚽, or getting lost in a good book 📚.
+<a href="https://portfolio-adeeliqbal.vercel.app/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-0A0A0A?style=for-the-badge&logo=globe&logoColor=fff" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/adeeliqbalmemon"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
+<a href="mailto:adeelmemon096@yahoo.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-6001D2?style=for-the-badge&logo=mail&logoColor=fff" alt="Email"/></a>
 
 </div>
 
----
+## 🧑‍💻 About me
 
-<div align="center">
+```python
+class AdeelIqbal:
+    def __init__(self):
+        self.role = "AI Engineer | AI Agent Engineer"
+        self.based_in = "Pakistan 🇵🇰"
+        self.motto = "Solve the real problem, not the interesting one"
+        self.daily_tools = ["Claude Code", "Codex", "Antigravity", "Hermes"]
+        self.off_the_clock = ["♟️ Chess", "💪 Gym", "⚽ FIFA", "📚 Reading"]
 
-## 🌐 Portfolio
-
-[![Portfolio](https://img.shields.io/badge/View_My_Work-0077B3?style=flat&logo=vercel&logoColor=white)](https://portfolio-adeeliqbal.vercel.app/)
-
-</div>
-
----
-
-## 🤖 Tech Stack
-
-### 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00008B?style=flat&logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-F65B66?style=flat&logo=pytorch&logoColor=white) [![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008080?logo=openai&logoColor=fff)](#) ![NLP](https://img.shields.io/badge/-NLP-2E7D32?style=flat&logo=huggingface&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff)](#) [![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff)](#) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
-
-### 🧩 Generative AI & Automation
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff)](#) [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=fff)](#) [![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?logo=robot&logoColor=fff)](#) [![RAG](https://img.shields.io/badge/RAG%20Pipelines-7C3AED?logo=openai&logoColor=fff)](#) [![n8n](https://img.shields.io/badge/n8n-EA4B8B?logo=n8n&logoColor=fff)](#) [![Voice Agents](https://img.shields.io/badge/Voice%20Agents-FF6B6B?logo=microphone&logoColor=fff)](#) [![MCP](https://img.shields.io/badge/MCP-7C3AED?logo=protocol&logoColor=fff)](#) [![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=000)](#) [![LLMs](https://img.shields.io/badge/LLMs-412991?logo=openai&logoColor=fff)](#) [![Vector Databases](https://img.shields.io/badge/Vector%20Databases-00ADD8?logo=database&logoColor=fff)](#) [![Faiss](https://img.shields.io/badge/Faiss-005571?logo=meta&logoColor=fff)](#) [![ChromaDB](https://img.shields.io/badge/ChromaDB-6B4EFF?logo=chromadb&logoColor=fff)](#) [![Pinecone](https://img.shields.io/badge/Pinecone-0EA5E9?logo=pinecone&logoColor=fff)](#)
-
-### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-1A2F43?style=flat&logo=python&logoColor=white) [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#) ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
-
-### 🌐 Web Development
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) [![Gradio](https://img.shields.io/badge/Gradio-FFB000?logo=gradio&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-
-### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#) [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff)](#)
-
-### ⚡ Development Tools
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=fff)](#) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#) [![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=fff)](#) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) [![Antigravity](https://img.shields.io/badge/Antigravity-FF69B4?logo=rocket&logoColor=fff)](#) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=mouse&logoColor=white) [![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff)](#)
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something cool together.")
 
 
----
+me = AdeelIqbal()
+me.say_hi()
+```
 
-<div align="center">
+## 🧰 Tech stack
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeeliqbalmemon)
-[![Email](https://img.shields.io/badge/Email-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:adeelmemon096@yahoo.com)
-
-</div>
-
----
-
-<div align="center">
-  <i>⭐ If you find my work interesting, consider starring my repositories!</i><br>
-  <i>Thanks for visiting my profile! 🚀</i>
-</div>
+| Area | Tools |
+|---|---|
+| 🐍 **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff" alt="Python"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=fff" alt="Kotlin"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=fff" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=fff" alt="CSS"/> |
+| 🤖 **LLMs and agents** | <img src="https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=fff" alt="Claude"/> <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-412991?style=flat&logo=openai&logoColor=fff" alt="OpenAI"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=fff" alt="LangChain"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=fff" alt="LangGraph"/> <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat&logo=crewai&logoColor=fff" alt="CrewAI"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=fff" alt="MCP"/> <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=fff" alt="Perplexity"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000" alt="Hugging Face"/> |
+| 🔎 **RAG and vector search** | <img src="https://custom-icon-badges.demolab.com/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=fff" alt="Qdrant"/> <img src="https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=fff" alt="pgvector"/> <img src="https://custom-icon-badges.demolab.com/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=fff" alt="Pinecone"/> <img src="https://custom-icon-badges.demolab.com/badge/ChromaDB-FF6446?style=flat&logo=chromadb&logoColor=fff" alt="ChromaDB"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat" alt="FAISS"/> |
+| 🧠 **Machine learning** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=fff" alt="PyTorch"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=fff" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=fff" alt="Keras"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=fff" alt="scikit-learn"/> <img src="https://custom-icon-badges.demolab.com/badge/XGBoost-337AB7?style=flat&logo=xgboost&logoColor=fff" alt="XGBoost"/> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=fff" alt="spaCy"/> |
+| 👁️ **Computer vision** | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=fff" alt="OpenCV"/> <img src="https://img.shields.io/badge/YOLO-111F68?style=flat&logo=ultralytics&logoColor=fff" alt="YOLO"/> <img src="https://img.shields.io/badge/SAM%202-0467DF?style=flat&logo=meta&logoColor=fff" alt="SAM 2"/> <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=fff" alt="FFmpeg"/> |
+| 🎙️ **Voice, automation and APIs** | <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=fff" alt="ElevenLabs"/> <img src="https://img.shields.io/badge/VAPI-5DFECA?style=flat" alt="VAPI"/> <img src="https://img.shields.io/badge/Retell%20AI-111111?style=flat" alt="Retell AI"/> <img src="https://img.shields.io/badge/LiveKit-1F1F1F?style=flat&logo=livekit&logoColor=fff" alt="LiveKit"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=fff" alt="n8n"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat" alt="Twilio"/> <img src="https://img.shields.io/badge/YouTube%20API-FF0000?style=flat&logo=youtube&logoColor=fff" alt="YouTube API"/> <img src="https://img.shields.io/badge/Meta%20Graph%20API-0467DF?style=flat&logo=meta&logoColor=fff" alt="Meta Graph API"/> |
+| ⚙️ **Backend and web** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=fff" alt="FastAPI"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=fff" alt="Flask"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=fff" alt="Pydantic"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=fff" alt="Next.js"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff" alt="Vite"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff" alt="Tailwind CSS"/> <img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=fff" alt="Playwright"/> <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat" alt="BeautifulSoup"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=fff" alt="Streamlit"/> <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=fff" alt="Gradio"/> <img src="https://img.shields.io/badge/Chainlit-F80061?style=flat" alt="Chainlit"/> |
+| 📱 **Mobile** | <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=fff" alt="Android"/> <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/Expo-1C2024?style=flat&logo=expo&logoColor=fff" alt="Expo"/> |
+| 📊 **Data** | <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=fff" alt="pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=fff" alt="NumPy"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=fff" alt="SciPy"/> <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=fff" alt="Matplotlib"/> <img src="https://custom-icon-badges.demolab.com/badge/Seaborn-444876?style=flat&logo=seaborn&logoColor=fff" alt="Seaborn"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=fff" alt="Plotly"/> <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=000" alt="Power BI"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=fff" alt="Jupyter"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=000" alt="Google Colab"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=fff" alt="Kaggle"/> |
+| 🗄️ **Databases and cloud** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=000" alt="Supabase"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=fff" alt="SQLAlchemy"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=fff" alt="SQLite"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=fff" alt="Redis"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" alt="Docker"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=fff" alt="Google Cloud"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=fff" alt="Cloudflare"/> <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=flat&logo=aws&logoColor=fff" alt="AWS"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=fff" alt="Vercel"/> |
+| 🛠️ **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff" alt="GitHub"/> <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=flat&logo=vsc&logoColor=fff" alt="VS Code"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=fff" alt="Cursor"/> <img src="https://img.shields.io/badge/Windsurf-0B100F?style=flat&logo=windsurf&logoColor=fff" alt="Windsurf"/> <img src="https://custom-icon-badges.demolab.com/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=fff" alt="Antigravity"/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=fff" alt="Claude Code"/> <img src="https://custom-icon-badges.demolab.com/badge/Codex-000000?style=flat&logo=openai&logoColor=fff" alt="Codex"/> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=fff" alt="pytest"/> |
