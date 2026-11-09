@@ -21,12 +21,16 @@ class AdeelIqbal:
         self.daily_tools = ["Claude Code", "Codex", "Antigravity", "Hermes"]
         self.off_the_clock = ["♟️ Chess", "💪 Gym", "⚽ FIFA", "📚 Reading"]
 
+    def status(self):
+        return "Probably debugging something"
+
     def say_hi(self):
         print("Thanks for stopping by! Let's build something cool together.")
 
 
 me = AdeelIqbal()
 me.say_hi()
+print(me.status())
 ```
 
 ## 🧰 Tech stack
